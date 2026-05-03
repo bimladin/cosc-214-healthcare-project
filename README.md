@@ -3,7 +3,7 @@
 ##  Healthcare Data Structure Performance Analysis
 
 ##  Team Members
-- Member 1: (ArrayList Implementation) :
+- Member 1: (ArrayList Implementation) : Robert Lawrence
 - Member 2: (LinkedList Implementation) : Robert Johnson
 - Member 3: (HashMap + PriorityQueue + Benchmarking) : Abimbola Adedeji
 
