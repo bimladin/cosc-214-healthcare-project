@@ -1,0 +1,23 @@
+package project;
+
+public class PatientRecord {
+    int id;
+    int age;
+    String gender;
+    String medicalCondition;
+    String hospital;
+    String admissionType;
+    double billingAmount;
+
+    public PatientRecord(int id, int age, String gender,
+                         String medicalCondition, String hospital,
+                         String admissionType, double billingAmount) {
+        this.id = id;
+        this.age = age;
+        this.gender = gender;
+        this.medicalCondition = medicalCondition;
+        this.hospital = hospital;
+        this.admissionType = admissionType;
+        this.billingAmount = billingAmount;
+    }
+}
